@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saidat
 - 👀 I’m interested in building sleek and responsive websites.
-- 🌱 I’m currently learning React and jQuery
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front end development projects. Hope you enjoy it here! 
 - 📫 Feel free to reach me on atandasaidat16@gmail.com
 
